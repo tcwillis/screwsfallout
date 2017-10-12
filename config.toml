@@ -1,7 +1,6 @@
 baseURL = "http://localhost:1313"
 languageCode = "en"
 title = "Screws Fall Out"
-theme = "hugo-nuo"
 publishDir = "docs"
 
 # Initial site menu, you can extend menu with content.
