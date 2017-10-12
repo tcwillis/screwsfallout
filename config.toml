@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "http://tcwillis.github.io/screwsfallout"
 languageCode = "en"
 title = "Screws Fall Out"
 publishDir = "docs"
