@@ -1,0 +1,26 @@
+baseURL = "http://localhost:1313"
+languageCode = "en"
+title = "Screws Fall Out"
+theme = "hugo-nuo"
+publishDir = "docs"
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Writing"
+  weight = 20
+  identifier = "works"
+
+# Add your own params here
+[params]
+  author = "Tim Willis"
+  avatar = "/img/avatar.jpg"
+  seotitle = "Screws Fall Out All The Time"
+  subtitle = "~ An imperfect place ~"
+  description = "Even when you do, you have not, and when you cannot, you ought to. But should you?"
+  paginate = 10
